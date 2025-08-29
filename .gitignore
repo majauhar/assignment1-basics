@@ -161,3 +161,10 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# data
+data/
+
+# other cache
+.DS_Store
+*/.DS_Store
